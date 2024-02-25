@@ -140,3 +140,43 @@ body
     float: right;
     position: relative;
 }
+.contact-form
+{
+    border: solid;
+    border-color:beige;
+    background-color:#f4f4f6;
+    padding: 15px;
+    width: 50%;
+}
+.form-input
+{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    
+}
+.message-text-area
+{
+    width: 100%;
+    min-height: 100px;
+}
+.form-button
+{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+.form-button
+{
+    
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 35px;
+    font-size: 18px;
+}
+.form-text
+{
+    width: 50%;
+    min-height: 25px;
+}
